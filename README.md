@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hannan0107
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Quantum Computing
+- 🌱 I’m currently learning Quantum computer based programming
 - 💞️ I’m looking to collaborate on a new Idea
 - 📫 How to reach me i guess email?
 
